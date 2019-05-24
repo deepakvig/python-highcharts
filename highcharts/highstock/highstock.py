@@ -62,9 +62,9 @@ class Highstock(object):
         # set Javascript src, Highcharts lib needs to make sure it's up to date
         self.JSsource = [
                 'https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js',
-                'https://code.highcharts.com/stock/6/highstock.js',
-                'https://code.highcharts.com/stock/6/modules/exporting.js',
-                'https://code.highcharts.com/6/highcharts-more.js',
+                'https://code.highcharts.com/stock/7/highstock.js',
+                'https://code.highcharts.com/stock/7/modules/exporting.js',
+                'https://code.highcharts.com/7/highcharts-more.js',
             ]
 
         # set CSS src
